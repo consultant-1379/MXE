@@ -1,0 +1,10 @@
+# UUID                                  	Group Name
+#
+604edb4ad0606d2013441c568f1bcddee217649e	MXE-readonly
+a69b3f06bd21180f40e16dfbd9c3de09f9e76f1a	Replication_SELI_ECN_DO_NOT_REMOVE
+e079f5878e7c9127f09213c6dd1089cb2d8192cc	MXE-admins
+e1c67b788418bf5fd52abd31f3a59a6d0b5509d6	MXE-users
+f5ce6fccdec332d26b3c3aeb0391068a5da9b464	Replication_Gamma_Migration_DO_NOT_REMOVE
+global:Change-Owner                     	Change Owner
+user:jiraopsid                          	user/Functional ID to operate JIRA (jiraopsid)
+user:mxecifunc                          	user/MXE Jenkins user (mxecifunc)
